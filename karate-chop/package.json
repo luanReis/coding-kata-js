@@ -1,0 +1,12 @@
+{
+  "name": "karate-chop",
+  "description": "A JavaScript implementation of the Karate Chop kata",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "author": "Luan Reis",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "4.0.1"
+  }
+}
